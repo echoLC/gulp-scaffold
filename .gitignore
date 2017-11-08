@@ -1,0 +1,14 @@
+#for mac
+.DS_Store
+
+#node
+node_modules/
+
+#webstorm
+.idea/
+.temp/
+
+#sass
+.sass-cache
+
+.dist/
