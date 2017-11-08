@@ -1,7 +1,7 @@
 {
-  "name": "app",
+  "name": "gulp-scaffold",
   "version": "1.0.0",
-  "description": "website",
+  "description": "gulp scaffold",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "build": "rm -rf dist && gulp build"
   },
   "keywords": [
-    "website"
+    "gulp"
   ],
   "author": "echoLC",
   "license": "ISC",
@@ -37,7 +37,5 @@
     "jshint": "^2.9.4",
     "rimraf": "^2.6.1"
   },
-  "dependencies": {
-    "slick-carousel": "^1.7.1"
-  }
+  "dependencies": {}
 }
